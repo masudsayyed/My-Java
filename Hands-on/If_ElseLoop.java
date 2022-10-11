@@ -1,3 +1,8 @@
+/*
+ Question - If your age is greater than 18 than print youn can vote.
+ Name - Masud Sayyed.
+ Date - 11/10/2022.
+*/
 package javaversion;
 
 import java.util.Scanner;
