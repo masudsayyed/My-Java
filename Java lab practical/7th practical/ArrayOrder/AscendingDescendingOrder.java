@@ -1,3 +1,8 @@
+/*
+  Question - Array Ascending Descending Order.
+  Name - Masud Sayyed.
+  Date - 20/10/2022.
+ */
 package javaversion;
 
 import java.util.*;
