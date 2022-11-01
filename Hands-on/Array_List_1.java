@@ -1,7 +1,6 @@
 /*
   write a program to iterate ArrayList.
   Name : Masud Sayyed.
-  write to sort ArrayList in Descending order.
 */
 package corejavabasic;
 
